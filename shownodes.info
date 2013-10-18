@@ -1,0 +1,3 @@
+name = shownodes
+description = This module displays various nodes in a block on your Drupal site.
+core = 7.x
